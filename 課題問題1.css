@@ -65,21 +65,23 @@ footer {
   background-color: #aaa;
 }
 
-/* タブレット縦置きサイズ（768px）以下の際に適用される設定 */
+
+
+
 @media screen and (max-width: 768px) {
 header {
   width: 100%;
 }
-  
+
 main {
   width: 100%;
   display: block;
 }
-  
+
 .blog-box {
   width: 90%;
-  margin: 0;
+  margin: 20px;
 }
-  
-  
+
+
 }
